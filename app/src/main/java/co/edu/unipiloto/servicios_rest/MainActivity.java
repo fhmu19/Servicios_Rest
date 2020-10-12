@@ -3,7 +3,6 @@ package co.edu.unipiloto.servicios_rest;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
